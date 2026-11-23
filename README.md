@@ -1,6 +1,7 @@
 # MLB Ballpark Effects: Bayesian Hierarchical Model
 
 Estimates how much each MLB ballpark inflates or suppresses run scoring, with uncertainty, using 2024–2025 regular-season results.
+Link to presentation - https://canva.link/dm9ixcbjjqa09px
 
 ## Research question
 
